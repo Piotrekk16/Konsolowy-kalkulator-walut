@@ -1,0 +1,8 @@
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\Piotrek\Documents\Visual Studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
